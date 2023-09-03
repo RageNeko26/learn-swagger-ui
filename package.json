@@ -1,0 +1,23 @@
+{
+  "name": "learn-swagger-ui",
+  "version": "1.0.0",
+  "description": "Learning how to integrating Swagger UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RageNeko26/learn-swagger-ui.git"
+  },
+  "keywords": [
+    "swagger",
+    "documentation"
+  ],
+  "author": "RageNeko26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RageNeko26/learn-swagger-ui/issues"
+  },
+  "homepage": "https://github.com/RageNeko26/learn-swagger-ui#readme"
+}
