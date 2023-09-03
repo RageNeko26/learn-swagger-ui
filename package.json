@@ -23,6 +23,7 @@
   "homepage": "https://github.com/RageNeko26/learn-swagger-ui#readme",
   "dependencies": {
     "css-loader": "^6.8.1",
+    "html-webpack-plugin": "^5.5.3",
     "json-loader": "^0.5.7",
     "style-loader": "^3.3.3",
     "swagger-ui": "^5.4.2",
