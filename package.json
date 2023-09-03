@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/RageNeko26/learn-swagger-ui/issues"
   },
-  "homepage": "https://github.com/RageNeko26/learn-swagger-ui#readme"
+  "homepage": "https://github.com/RageNeko26/learn-swagger-ui#readme",
+  "dependencies": {
+    "css-loader": "^6.8.1",
+    "json-loader": "^0.5.7",
+    "style-loader": "^3.3.3",
+    "swagger-ui": "^5.4.2",
+    "yaml-loader": "^0.8.0"
+  }
 }
