@@ -8,7 +8,7 @@ const outputPath = path.resolve(__dirname, 'dist');
 module.exports = {
   devServer: {
       proxy: {
-        "/api" : "http://localhost:8080",
+        "/api" : "http://localhost:3000",
       },
   },
   mode: 'development',
