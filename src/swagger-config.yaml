@@ -3,7 +3,7 @@ info:
   title: API Documentation
   version: '1.0'
 servers:
-  - url:    http://ec2-3-113-2-184.ap-northeast-1.compute.amazonaws.com/api/v1
+  - url:    http://localhost:8080/api/v1
     description: HTTP server for the API documentation
 paths:
   /auth/signin:
