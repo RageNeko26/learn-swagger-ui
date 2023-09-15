@@ -6,6 +6,11 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 const outputPath = path.resolve(__dirname, 'dist');
 
 module.exports = {
+  devServer: {
+      proxy: {
+        "/api" : "http://localhost:8080",
+      },
+  },
   mode: 'development',
   entry: {
     app: require.resolve('./src/index'),
